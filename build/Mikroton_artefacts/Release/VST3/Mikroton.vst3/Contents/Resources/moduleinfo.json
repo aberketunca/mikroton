@@ -1,0 +1,60 @@
+{
+  "Name": "Mikroton",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "Mikroton",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB4D6B746E4D6B746E",
+      "Category": "Audio Module Class",
+      "Name": "Mikroton",
+      "Vendor": "Mikroton",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD4D6B746E4D6B746E",
+      "Category": "Component Controller Class",
+      "Name": "Mikroton",
+      "Vendor": "Mikroton",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D4D6B746E4D6B746E",
+      "Category": "Plugin Compatibility Class",
+      "Name": "Mikroton",
+      "Vendor": "Mikroton",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}

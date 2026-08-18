@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+22dfa2f9ebf30cb640855d08d4dc596b Mikroton_artefacts/JuceLibraryCode/Mikroton_Standalone/PkgInfo
+eb0527413e6399efc85b1e8b330b274a Mikroton_artefacts/JuceLibraryCode/Mikroton_VST3/PkgInfo
